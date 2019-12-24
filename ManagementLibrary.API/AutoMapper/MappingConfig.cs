@@ -21,6 +21,7 @@ namespace GetWay.API.AutoMapper
         {
             CreateMap<CarCreateViewModel, Car>();
             CreateMap<CarUpdateViewModel, Car>();
+            CreateMap<GarageViewModel, Garage>();
         }
 
         private void CreateMappingFromEntitiesToViewModels()
