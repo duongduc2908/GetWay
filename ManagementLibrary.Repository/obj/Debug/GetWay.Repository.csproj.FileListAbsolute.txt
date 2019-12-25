@@ -136,3 +136,7 @@ D:\GetWay\ManagementLibrary.Repository\obj\Debug\GetWay.Repository.csprojAssembl
 D:\GetWay\ManagementLibrary.Repository\obj\Debug\GetWay.Repository.csproj.CopyComplete
 D:\GetWay\ManagementLibrary.Repository\obj\Debug\ManagementLibrary.Repository.dll
 D:\GetWay\ManagementLibrary.Repository\obj\Debug\ManagementLibrary.Repository.pdb
+E:\Developer\GetWay\ManagementLibrary.Repository\obj\Debug\GetWay.Repository.csprojAssemblyReference.cache
+E:\Developer\GetWay\ManagementLibrary.Repository\obj\Debug\GetWay.Repository.csproj.CoreCompileInputs.cache
+E:\Developer\GetWay\ManagementLibrary.Repository\obj\Debug\ManagementLibrary.Repository.dll
+E:\Developer\GetWay\ManagementLibrary.Repository\obj\Debug\ManagementLibrary.Repository.pdb

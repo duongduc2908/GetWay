@@ -268,3 +268,7 @@ D:\GetWay\ManagementLibrary.API\obj\Debug\GetWay.API.csprojAssemblyReference.cac
 D:\GetWay\ManagementLibrary.API\obj\Debug\GetWay.API.csproj.CopyComplete
 D:\GetWay\ManagementLibrary.API\obj\Debug\ManagementLibrary.API.dll
 D:\GetWay\ManagementLibrary.API\obj\Debug\ManagementLibrary.API.pdb
+E:\Developer\GetWay\ManagementLibrary.API\obj\Debug\GetWay.API.csprojAssemblyReference.cache
+E:\Developer\GetWay\ManagementLibrary.API\obj\Debug\GetWay.API.csproj.CoreCompileInputs.cache
+E:\Developer\GetWay\ManagementLibrary.API\obj\Debug\ManagementLibrary.API.dll
+E:\Developer\GetWay\ManagementLibrary.API\obj\Debug\ManagementLibrary.API.pdb
